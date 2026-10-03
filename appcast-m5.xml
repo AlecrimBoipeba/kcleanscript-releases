@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>K Clean SCRIPT</title>
+    <item>
+      <title>K Clean SCRIPT 2.1</title>
+      <pubDate>Sat, 03 Oct 2026 15:10:05 +0200</pubDate>
+      <sparkle:version>202610031458</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Importa e pulisce anche sottotitoli .srt, .vtt, .ass e copioni .rtf. Dopo «ANELLO» c'è sempre un tab. Note del traduttore CCSL rimosse. Da questa versione gli aggiornamenti arrivano da soli.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610031458/KCleanScript-m5-202610031458.dmg" length="61420871" type="application/octet-stream" sparkle:edSignature="lSRkVMtRcNCGMEq+I2Et1yqHWSpmSmBcKQfMvVW4KNCnQZqyR+NbI2mJcviQQoS3vTfCAJprczEJgQzoIaLBAQ=="/>
+    </item>
+  </channel>
+</rss>
