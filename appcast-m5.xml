@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.1</title>
-      <pubDate>Sat, 03 Oct 2026 15:10:05 +0200</pubDate>
-      <sparkle:version>202610031458</sparkle:version>
-      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.2</title>
+      <pubDate>Tue, 06 Oct 2026 09:10:00 +0200</pubDate>
+      <sparkle:version>202610060840</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Importa e pulisce anche sottotitoli .srt, .vtt, .ass e copioni .rtf. Dopo «ANELLO» c'è sempre un tab. Note del traduttore CCSL rimosse. Da questa versione gli aggiornamenti arrivano da soli.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610031458/KCleanScript-m5-202610031458.dmg" length="61420871" type="application/octet-stream" sparkle:edSignature="lSRkVMtRcNCGMEq+I2Et1yqHWSpmSmBcKQfMvVW4KNCnQZqyR+NbI2mJcviQQoS3vTfCAJprczEJgQzoIaLBAQ=="/>
+      <description><![CDATA[<p>Nuova finestra principale. Tre modalità di pulizia (Standard, Automatica, Solo AI) e assistente copioni con AI locale, che resta sul Mac. Leggono anche i PDF «SCENE DESCRIPTION | TIME CODE | DIALOGUE» e «Post Production Script». L'app si propone per aprire .srt, .vtt, .ass e .rtf.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610060840/KCleanScript-m5-202610060840.dmg" length="61547942" type="application/octet-stream" sparkle:edSignature="t2LN1MN9WsZdNB7KaidVaU+jDtC2VoLFUq9erugZHp974UJ8QiWJc3o3YOlIARdiirwaek6GUDjgFgBVeyzCDg=="/>
     </item>
   </channel>
 </rss>
