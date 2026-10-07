@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.3</title>
-      <pubDate>Tue, 06 Oct 2026 23:52:32 +0200</pubDate>
-      <sparkle:version>202610062331</sparkle:version>
-      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.4</title>
+      <pubDate>Wed, 07 Oct 2026 21:20:37 +0200</pubDate>
+      <sparkle:version>202610072109</sparkle:version>
+      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>L'assistente AI è più affidabile: non copia più i nomi dei personaggi nelle battute, aggiunge anche il tempo di uscita, rifà la proposta se si era interrotta e controlla la disponibilità prima di cominciare. Più veloce a pannello chiuso e con le scansioni PDF.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610062331/KCleanScript-intel-202610062331.dmg" length="58413704" type="application/octet-stream" sparkle:edSignature="YW5Rbx4X7/jRoh39tQgueUCVbvhrsWN/OQPMEcVF8XQ1hVb8fY/t+W+8C7qvh0ShzXLu5EvS47r/RIw1HdHNBw=="/>
+      <description><![CDATA[<p>L'assistente AI, quando applichi una sua proposta, esporta anche CSV, TTAL e Word da modello oltre all'Excel, con le impostazioni che hai scelto. Include le correzioni della 2.3.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610072109/KCleanScript-intel-202610072109.dmg" length="58412382" type="application/octet-stream" sparkle:edSignature="0iARtLkLkjEReTmRKNLaRxot4p6AVY0RaGfiIahjpAH0cHykEbTdVhJyY1JrwzmB4oM/Hd2Rj87H47tPci1SBg=="/>
     </item>
   </channel>
 </rss>
