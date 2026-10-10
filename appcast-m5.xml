@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.4</title>
-      <pubDate>Wed, 07 Oct 2026 21:20:39 +0200</pubDate>
-      <sparkle:version>202610072109</sparkle:version>
-      <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.5</title>
+      <pubDate>Sat, 10 Oct 2026 10:26:03 +0200</pubDate>
+      <sparkle:version>202610101019</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>L'assistente AI, quando applichi una sua proposta, esporta anche CSV, TTAL e Word da modello oltre all'Excel, con le impostazioni che hai scelto. Include le correzioni della 2.3.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610072109/KCleanScript-m5-202610072109.dmg" length="61438364" type="application/octet-stream" sparkle:edSignature="uiLpFt03FWB9jQPPMP7GlvuLehzC6Oe1pv1ljMHg+uzJWwXFVYnyXscPVkpgxXOp6YebXqmypyuI0JV1jHfHCA=="/>
+      <description><![CDATA[<p>Il parser legge meglio copioni che prima venivano letti male o rifiutati: Locked Cut Script (HBO), liste dialoghi TUBI, tabelle CDSL, Winx e Con Te. Meno falsi avvisi su CCSL e CDSL in modalità Automatica. Include l'export di CSV e TTAL dall'assistente.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610101019/KCleanScript-m5-202610101019.dmg" length="61558548" type="application/octet-stream" sparkle:edSignature="1a83nugENhfCPm61i9zCXUXCDTiQxQZBdDsgET2ar4NO0VmBxKQQ9QgQ4x9tj1pSL8jCk9DGym58ybc92I+7Aw=="/>
     </item>
   </channel>
 </rss>
