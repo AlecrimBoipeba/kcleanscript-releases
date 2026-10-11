@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.5</title>
-      <pubDate>Sat, 10 Oct 2026 10:26:03 +0200</pubDate>
-      <sparkle:version>202610101019</sparkle:version>
-      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.6</title>
+      <pubDate>Sun, 11 Oct 2026 02:01:17 +0200</pubDate>
+      <sparkle:version>202610110151</sparkle:version>
+      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Il parser legge meglio copioni che prima venivano letti male o rifiutati: Locked Cut Script (HBO), liste dialoghi TUBI, tabelle CDSL, Winx e Con Te. Meno falsi avvisi su CCSL e CDSL in modalità Automatica. Include l'export di CSV e TTAL dall'assistente.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610101019/KCleanScript-intel-202610101019.dmg" length="58420243" type="application/octet-stream" sparkle:edSignature="jtugVMqiCS+3qWPBGRwET+FSjo/uU1WFH2hbjnQ/6zfdWxtcSeq7JMamgvXDut1x2txjfNt07+OG1ibz8gOfAA=="/>
+      <description><![CDATA[<p>Copioni PDF Locked Cut Script (HBO, Point.360 e simili): lettura a colonne, per esempio ULD_101 passa da 28 a 438 battute; molti PDF che prima davano errore ora si leggono.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610110151/KCleanScript-intel-202610110151.dmg" length="58423830" type="application/octet-stream" sparkle:edSignature="1fwFOcfRyTddvaqYEDGaJoKSSyKlLa77WCFEANfJzI5cxQlXOPy6nr+dvg9lWJ8ZsYW1AqmLt05UG0XzaG0QCw=="/>
     </item>
   </channel>
 </rss>
