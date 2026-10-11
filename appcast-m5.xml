@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.6</title>
-      <pubDate>Sun, 11 Oct 2026 02:01:18 +0200</pubDate>
-      <sparkle:version>202610110151</sparkle:version>
-      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.7</title>
+      <pubDate>Sun, 11 Oct 2026 23:05:17 +0200</pubDate>
+      <sparkle:version>202610112253</sparkle:version>
+      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Copioni PDF Locked Cut Script (HBO, Point.360 e simili): lettura a colonne, per esempio ULD_101 passa da 28 a 438 battute; molti PDF che prima davano errore ora si leggono.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610110151/KCleanScript-m5-202610110151.dmg" length="61563417" type="application/octet-stream" sparkle:edSignature="Y0dsLCeYC5W4wJVo+Ju1ByM+K4Ap/GM20r/br8Qm0c3wgcPjaU55bRbARJjEB+/jVb2N6Ko6nuU10fLnuGZGBw=="/>
+      <description><![CDATA[<p>Python incluso aggiornato alla 3.14 e lettura dei PDF molto più robusta: Locked Cut Script, tabelle tipo «dialogue list» e copioni americani che prima davano errore o poche battute (per esempio ULD_101 da 28 a 438 battute) ora si leggono, e l'elaborazione dei PDF è più veloce.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610112253/KCleanScript-m5-202610112253.dmg" length="62917831" type="application/octet-stream" sparkle:edSignature="ROyc/zow82Nrrt5mURAx5U9MJbuH+6t5mnM1oiXZe3KPoKctsYvbQ7EhuCVWhMrvbEojoCugBPceaX+QwbnqDQ=="/>
     </item>
   </channel>
 </rss>
