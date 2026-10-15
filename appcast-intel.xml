@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.7</title>
-      <pubDate>Sun, 11 Oct 2026 23:05:16 +0200</pubDate>
-      <sparkle:version>202610112253</sparkle:version>
-      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.8</title>
+      <pubDate>Thu, 15 Oct 2026 23:37:10 +0200</pubDate>
+      <sparkle:version>202610150027</sparkle:version>
+      <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Python incluso aggiornato alla 3.14 e lettura dei PDF molto più robusta: Locked Cut Script, tabelle tipo «dialogue list» e copioni americani che prima davano errore o poche battute (per esempio ULD_101 da 28 a 438 battute) ora si leggono, e l'elaborazione dei PDF è più veloce.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610112253/KCleanScript-intel-202610112253.dmg" length="60692669" type="application/octet-stream" sparkle:edSignature="gjan49fZxD/4aTpu8XU2VUdbCOrFT6/RSiRHr4fcipiUtDaTysVYSSaeL1ZyXRrVxCuJau548P/8drOw9pJJDw=="/>
+      <description><![CDATA[<p>Nuova impostazione «Unisci i rulli in un solo copione» (Impostazioni ▸ Esportazione): per i film con un copione per rullo, trascina tutti i rulli insieme e ottieni un unico copione pulito e un unico Excel di riepilogo. Più copioni CCSL a tabella si leggono bene (nomi come «ZARA NARRATING» o «DAVE INTO RADIO» non sono più personaggi diversi), per esempio «Anxious People».</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610150027/KCleanScript-intel-202610150027.dmg" length="60714164" type="application/octet-stream" sparkle:edSignature="X/IDXXDVAOITEWSGI5FNMfR3vnIIEAm2FqcnWICTUCIZXIDVy4bMZpZyAst9HFVIjGamHLLAkPHAbT+g/VSsBg=="/>
     </item>
   </channel>
 </rss>
