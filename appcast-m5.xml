@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.9</title>
-      <pubDate>Fri, 16 Oct 2026 06:42:55 +0200</pubDate>
-      <sparkle:version>202610160633</sparkle:version>
-      <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.10</title>
+      <pubDate>Fri, 16 Oct 2026 08:30:41 +0200</pubDate>
+      <sparkle:version>202610160825</sparkle:version>
+      <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Correzione: nei PDF la lettura dei copioni torna accurata come nella 2.8 prima di una modifica che, su alcuni copioni americani come «For the Love of a Woman», accettava una lettura incompleta. Resta tutto il resto della 2.8: unione dei rulli in un solo copione e lettura dei CCSL a tabella.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610160633/KCleanScript-m5-202610160633.dmg" length="63233834" type="application/octet-stream" sparkle:edSignature="QfzicijOJX0sOOXtlM049xjClKcLA/5D/N9OhmYSkgOYn29h1L+O8FDeWkrCRSruxiFvrGYLWoIWXAKRggnqCA=="/>
+      <description><![CDATA[<p>Corretto il doppio rapporto: se si riaprono o si trascinano file mentre una pulizia è in corso, parte una sola pulizia e si ottiene un solo rapporto.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610160825/KCleanScript-m5-202610160825.dmg" length="63234790" type="application/octet-stream" sparkle:edSignature="Dfj8yZCQ9F9ZqzDvG5qsYK7gaayduf2rMSp/HBxkT9eXHOD9keR8qyrZ5V06WygFp+5g/Jr5yUzEOahIHNzABw=="/>
     </item>
   </channel>
 </rss>
