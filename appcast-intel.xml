@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.8</title>
-      <pubDate>Thu, 15 Oct 2026 23:37:10 +0200</pubDate>
-      <sparkle:version>202610150027</sparkle:version>
-      <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.9</title>
+      <pubDate>Fri, 16 Oct 2026 06:42:54 +0200</pubDate>
+      <sparkle:version>202610160633</sparkle:version>
+      <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nuova impostazione «Unisci i rulli in un solo copione» (Impostazioni ▸ Esportazione): per i film con un copione per rullo, trascina tutti i rulli insieme e ottieni un unico copione pulito e un unico Excel di riepilogo. Più copioni CCSL a tabella si leggono bene (nomi come «ZARA NARRATING» o «DAVE INTO RADIO» non sono più personaggi diversi), per esempio «Anxious People».</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610150027/KCleanScript-intel-202610150027.dmg" length="60714164" type="application/octet-stream" sparkle:edSignature="X/IDXXDVAOITEWSGI5FNMfR3vnIIEAm2FqcnWICTUCIZXIDVy4bMZpZyAst9HFVIjGamHLLAkPHAbT+g/VSsBg=="/>
+      <description><![CDATA[<p>Correzione: nei PDF la lettura dei copioni torna accurata come nella 2.8 prima di una modifica che, su alcuni copioni americani come «For the Love of a Woman», accettava una lettura incompleta. Resta tutto il resto della 2.8: unione dei rulli in un solo copione e lettura dei CCSL a tabella.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610160633/KCleanScript-intel-202610160633.dmg" length="60693927" type="application/octet-stream" sparkle:edSignature="W5K2USZe/6mfohxyw65SJoLezR2NuXrUAFZG/28Q1WLj1e1RrYDEenW0PScZrRJZ6iOdyHke3a3FlxlvWoHFBg=="/>
     </item>
   </channel>
 </rss>
