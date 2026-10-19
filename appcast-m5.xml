@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.12</title>
-      <pubDate>Mon, 19 Oct 2026 18:03:50 +0200</pubDate>
-      <sparkle:version>202610191757</sparkle:version>
-      <sparkle:shortVersionString>2.12</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.13</title>
+      <pubDate>Mon, 19 Oct 2026 22:55:17 +0200</pubDate>
+      <sparkle:version>202610192235</sparkle:version>
+      <sparkle:shortVersionString>2.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Le liste Netflix dei testi a schermo e forced narrative (colonne TEXT TYPE e DIÁLOGO) vengono lette bene: il tipo di testo fa da etichetta e ogni battuta ha il timecode di entrata e di uscita.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610191757/KCleanScript-m5-202610191757.dmg" length="63204275" type="application/octet-stream" sparkle:edSignature="20Ge+aj4ONV6Ln+sJziDQd6CVLOB2OG3od/Btr+F/S8crZQGo3B7RGH0BZnEmDZPdpO2CfgXyj9iSV+IlOZzBg=="/>
+      <description><![CDATA[<p>Corretto il blocco su «Pulizia in corso» con i copioni che producono molto testo. Lette bene la Dialogue List e le liste dei testi a schermo Netflix, gli Excel «Subtitles», le CCSL tipo Wife &amp; Dog; i rulli restano sempre in ordine di rullo (anche R05 con il punto nel nome).</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610192235/KCleanScript-m5-202610192235.dmg" length="63262817" type="application/octet-stream" sparkle:edSignature="9zia1bjwZc1Ppd7A2RnI4Ve8Vx9gBQt+FMyI0aQoW64HulgON1B7GnScJ7qS+g3+3aADxgHf7mRYCzLgAGB4DQ=="/>
     </item>
   </channel>
 </rss>
