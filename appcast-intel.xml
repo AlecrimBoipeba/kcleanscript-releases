@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.10</title>
-      <pubDate>Fri, 16 Oct 2026 08:30:40 +0200</pubDate>
-      <sparkle:version>202610160825</sparkle:version>
-      <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.11</title>
+      <pubDate>Mon, 19 Oct 2026 15:41:41 +0200</pubDate>
+      <sparkle:version>202610191527</sparkle:version>
+      <sparkle:shortVersionString>2.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Corretto il doppio rapporto: se si riaprono o si trascinano file mentre una pulizia è in corso, parte una sola pulizia e si ottiene un solo rapporto.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610160825/KCleanScript-intel-202610160825.dmg" length="60715286" type="application/octet-stream" sparkle:edSignature="ehK66PlRSAyaogP8pHi5p1E7jvIdkGYew1cgKoxtVccoNZi5Icx1DSBRVk60WiE3SQ+X8ZIVlGb17Fgypj/ZBA=="/>
+      <description><![CDATA[<p>Pulizia non più automatica: i file aggiunti restano in lista finché non premi Pulisci (si può riattivare in Impostazioni ▸ Pulizia). Svuota lista ora è nella barra, accanto a Pulisci.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610191527/KCleanScript-intel-202610191527.dmg" length="60730519" type="application/octet-stream" sparkle:edSignature="OV6vkDGCxqmvswi7uat2LQVM2Bfw7cjHKzH9QbaKdXMj7okVQYxd12VAole7jGeRBD8ZmeJYBzMlAkOxppVEAg=="/>
     </item>
   </channel>
 </rss>
