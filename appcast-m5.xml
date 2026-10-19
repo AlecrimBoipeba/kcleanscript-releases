@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.11</title>
-      <pubDate>Mon, 19 Oct 2026 15:41:42 +0200</pubDate>
-      <sparkle:version>202610191527</sparkle:version>
-      <sparkle:shortVersionString>2.11</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.12</title>
+      <pubDate>Mon, 19 Oct 2026 18:03:50 +0200</pubDate>
+      <sparkle:version>202610191757</sparkle:version>
+      <sparkle:shortVersionString>2.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Pulizia non più automatica: i file aggiunti restano in lista finché non premi Pulisci (si può riattivare in Impostazioni ▸ Pulizia). Svuota lista ora è nella barra, accanto a Pulisci.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610191527/KCleanScript-m5-202610191527.dmg" length="63237772" type="application/octet-stream" sparkle:edSignature="gT3k36W82Bm3D8jeQhARlNAug4NgX/aSqBufcatkhj2G3Toj2ohxcaSPnMQJtJl95Gthe+6SrnBBRQiPSbu7CA=="/>
+      <description><![CDATA[<p>Le liste Netflix dei testi a schermo e forced narrative (colonne TEXT TYPE e DIÁLOGO) vengono lette bene: il tipo di testo fa da etichetta e ogni battuta ha il timecode di entrata e di uscita.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610191757/KCleanScript-m5-202610191757.dmg" length="63204275" type="application/octet-stream" sparkle:edSignature="20Ge+aj4ONV6Ln+sJziDQd6CVLOB2OG3od/Btr+F/S8crZQGo3B7RGH0BZnEmDZPdpO2CfgXyj9iSV+IlOZzBg=="/>
     </item>
   </channel>
 </rss>
