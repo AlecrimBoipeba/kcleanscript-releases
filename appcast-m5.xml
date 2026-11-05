@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.16</title>
-      <pubDate>Thu, 05 Nov 2026 23:54:13 +0100</pubDate>
-      <sparkle:version>202611052343</sparkle:version>
-      <sparkle:shortVersionString>2.16</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.17</title>
+      <pubDate>Fri, 06 Nov 2026 00:32:58 +0100</pubDate>
+      <sparkle:version>202611060020</sparkle:version>
+      <sparkle:shortVersionString>2.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Lette bene le liste dialoghi a tabelle di due colonne (nome, poi timecode e battuta), come La Valanga. Le correzioni delle versioni precedenti restano.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611052343/KCleanScript-m5-202611052343.dmg" length="63300992" type="application/octet-stream" sparkle:edSignature="cCLGsPR4j21Hzec36ooE47wGLLQkP/ChqUBqlF3fIW7nOxP2WECRg0uiVKGKAmC4NG8An7uihnR4Bxfdv2BdDA=="/>
+      <description><![CDATA[<p>Nuova icona K di KSound (marchio in filigrana). Nessun'altra modifica rispetto alla 2.16.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611060020/KCleanScript-m5-202611060020.dmg" length="63529704" type="application/octet-stream" sparkle:edSignature="yyX/vZsNTgUX89A5RYpr+NyuKe2DRfkLGhSgTOMEP1wG6Gx/rO7i81DJ/FKXQyKn/ukMWFUWyDKFxiesA0meCw=="/>
     </item>
   </channel>
 </rss>
