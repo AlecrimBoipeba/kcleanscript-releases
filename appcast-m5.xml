@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.14</title>
-      <pubDate>Sun, 25 Oct 2026 17:28:30 +0100</pubDate>
-      <sparkle:version>202610251726</sparkle:version>
-      <sparkle:shortVersionString>2.14</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.16</title>
+      <pubDate>Thu, 05 Nov 2026 23:54:13 +0100</pubDate>
+      <sparkle:version>202611052343</sparkle:version>
+      <sparkle:shortVersionString>2.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Collegamento diretto con Sottotitoli: dal pulsante «Pulisci con K Clean SCRIPT…» di Sottotitoli il copione pulito torna da solo. Messaggi di errore più chiari.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202610251726/KCleanScript-m5-202610251726.dmg" length="62498601" type="application/octet-stream" sparkle:edSignature="sKrlNKJCMUpwcee1iIb7DBSWNZC9zKRxLUNUCjIw8ShNzBc4S27hYaTSmiUjEnTSIgO4ZPX2udIEPyHXfDQCCQ=="/>
+      <description><![CDATA[<p>Lette bene le liste dialoghi a tabelle di due colonne (nome, poi timecode e battuta), come La Valanga. Le correzioni delle versioni precedenti restano.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611052343/KCleanScript-m5-202611052343.dmg" length="63300992" type="application/octet-stream" sparkle:edSignature="cCLGsPR4j21Hzec36ooE47wGLLQkP/ChqUBqlF3fIW7nOxP2WECRg0uiVKGKAmC4NG8An7uihnR4Bxfdv2BdDA=="/>
     </item>
   </channel>
 </rss>
