@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.18</title>
-      <pubDate>Sat, 07 Nov 2026 15:06:17 +0100</pubDate>
-      <sparkle:version>202611071457</sparkle:version>
-      <sparkle:shortVersionString>2.18</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.19</title>
+      <pubDate>Mon, 09 Nov 2026 08:49:18 +0100</pubDate>
+      <sparkle:version>202611082110</sparkle:version>
+      <sparkle:shortVersionString>2.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>I PDF con filigrana (per esempio TransPerfect) si puliscono senza le lettere della filigrana e senza battute incollate alle azioni; nuovo lettore per i copioni in PDF a colonna unica.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611071457/KCleanScript-m5-202611071457.dmg" length="63529200" type="application/octet-stream" sparkle:edSignature="fXOGrL7c+9C4B/LPrRnDOXKowfYAnexdWRliwaErU3KG3+yfdqJtD7aXDbXTODlrVODzssAd6ys1YkmXAQ9ICg=="/>
+      <description><![CDATA[<p>Nei copioni PDF a colonna unica le righe di montaggio (MUSIC CUE, FADE IN/OUT, BEGIN ACT…) non vengono più lette come personaggi.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611082110/KCleanScript-m5-202611082110.dmg" length="63529915" type="application/octet-stream" sparkle:edSignature="bO2AuPT9FTSBvXysLfydj15vz9prVZ2glQfYYUpD14Kse8DtjfpSFx1WEsjFEEQOc0UQESKrgn8KAgy8FqU5Cg=="/>
     </item>
   </channel>
 </rss>
