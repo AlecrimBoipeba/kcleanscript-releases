@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.19</title>
-      <pubDate>Mon, 09 Nov 2026 08:49:18 +0100</pubDate>
-      <sparkle:version>202611082110</sparkle:version>
-      <sparkle:shortVersionString>2.19</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.20</title>
+      <pubDate>Thu, 12 Nov 2026 11:13:17 +0100</pubDate>
+      <sparkle:version>202611121105</sparkle:version>
+      <sparkle:shortVersionString>2.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nei copioni PDF a colonna unica le righe di montaggio (MUSIC CUE, FADE IN/OUT, BEGIN ACT…) non vengono più lette come personaggi.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611082110/KCleanScript-m5-202611082110.dmg" length="63529915" type="application/octet-stream" sparkle:edSignature="bO2AuPT9FTSBvXysLfydj15vz9prVZ2glQfYYUpD14Kse8DtjfpSFx1WEsjFEEQOc0UQESKrgn8KAgy8FqU5Cg=="/>
+      <description><![CDATA[<p>Lettore PDF: la filigrana si toglie anche dai PDF protetti con la sola password del proprietario; correzioni interne.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611121105/KCleanScript-m5-202611121105.dmg" length="63526213" type="application/octet-stream" sparkle:edSignature="+koF/n56+TRCcNQhBERuRLezqWmD+Cx7ArA7+Ss+2PB1Zai9226LYxKBzUTPd0J2X9Hhr7hha+7OPgzIcgqsDA=="/>
     </item>
   </channel>
 </rss>
