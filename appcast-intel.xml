@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.20</title>
-      <pubDate>Thu, 12 Nov 2026 11:13:17 +0100</pubDate>
-      <sparkle:version>202611121105</sparkle:version>
-      <sparkle:shortVersionString>2.20</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.21</title>
+      <pubDate>Fri, 13 Nov 2026 09:36:27 +0100</pubDate>
+      <sparkle:version>202611130005</sparkle:version>
+      <sparkle:shortVersionString>2.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Lettore PDF: la filigrana si toglie anche dai PDF protetti con la sola password del proprietario; correzioni interne.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611121105/KCleanScript-intel-202611121105.dmg" length="60732815" type="application/octet-stream" sparkle:edSignature="36AJMm7aifCK4dT94rkZyc2d6UocmQkd+U0kubGAWdMZENIOsuYpmDoD3NMRI+I0oQtThZUL4M/d5Da0Gvm6DQ=="/>
+      <description><![CDATA[<p>Legge più copioni PDF a rientri con il numero della battuta accanto al nome (Winx, 44 Gatti, World of Winx, Pinocchio).</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611130005/KCleanScript-intel-202611130005.dmg" length="60620130" type="application/octet-stream" sparkle:edSignature="sL09qdXkCHpcky08rFehHfjeIdkcr12ONuTDvymShuDwOHwhz5HUe+RH/x5Zqr2ncriNO6dV0KhMcsEHNrnLDA=="/>
     </item>
   </channel>
 </rss>
