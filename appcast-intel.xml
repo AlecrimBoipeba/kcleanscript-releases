@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.21</title>
-      <pubDate>Fri, 13 Nov 2026 09:36:27 +0100</pubDate>
-      <sparkle:version>202611130005</sparkle:version>
-      <sparkle:shortVersionString>2.21</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.22</title>
+      <pubDate>Fri, 13 Nov 2026 23:54:00 +0100</pubDate>
+      <sparkle:version>202611132346</sparkle:version>
+      <sparkle:shortVersionString>2.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Legge più copioni PDF a rientri con il numero della battuta accanto al nome (Winx, 44 Gatti, World of Winx, Pinocchio).</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611130005/KCleanScript-intel-202611130005.dmg" length="60620130" type="application/octet-stream" sparkle:edSignature="sL09qdXkCHpcky08rFehHfjeIdkcr12ONuTDvymShuDwOHwhz5HUe+RH/x5Zqr2ncriNO6dV0KhMcsEHNrnLDA=="/>
+      <description><![CDATA[<p>Legge anche i copioni PDF a tabella con timecode a punti (serie RZ2), tenendo le righe con la sola reazione.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611132346/KCleanScript-intel-202611132346.dmg" length="60626606" type="application/octet-stream" sparkle:edSignature="SAgHZwxSFIiozO00nDynRBIW+llSY6K2NoYTlaTkNbK8OnPKrZM4MG4jxX5IkV1FcOCzSOQAy1nK7w9lTC4/DA=="/>
     </item>
   </channel>
 </rss>
