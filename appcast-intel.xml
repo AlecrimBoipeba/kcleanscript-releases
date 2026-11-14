@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.24</title>
-      <pubDate>Sat, 14 Nov 2026 15:05:10 +0100</pubDate>
-      <sparkle:version>202611141454</sparkle:version>
-      <sparkle:shortVersionString>2.24</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.25</title>
+      <pubDate>Sat, 14 Nov 2026 21:48:36 +0100</pubDate>
+      <sparkle:version>202611141913</sparkle:version>
+      <sparkle:shortVersionString>2.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nuovo: «Excel per K ADR Export» nel menu Esporta (colonne di K ADR Export, pronto da importare). Si leggono più copioni PDF: liste CCSL, Succession, Home Sweet Rome, Edge of the Earth e altri circa 30.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611141454/KCleanScript-intel-202611141454.dmg" length="60952684" type="application/octet-stream" sparkle:edSignature="HvVXWitVa/Sng9VYDcEqHXXSOvME6JuWgM3MVF7EFZ0ylaBlPAtL2sps5g8JDmOgO11dAxz8DLW5/oPKZKSUDA=="/>
+      <description><![CDATA[<p>Importando un Excel con TC in e TC out, il copione pulito li mantiene se in Impostazioni non c'è il flag per rimuoverli. Più PDF letti.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611141913/KCleanScript-intel-202611141913.dmg" length="60962516" type="application/octet-stream" sparkle:edSignature="zZ2xo/yaBZykdJY9Z1Z9r2Ohrejr9iB4jhvrb7sdlj25yQ5YykWQmdRM8bqL9EARWHMWQroqdhG0NK2xyuGzCQ=="/>
     </item>
   </channel>
 </rss>
