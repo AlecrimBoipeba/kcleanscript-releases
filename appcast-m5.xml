@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.23</title>
-      <pubDate>Sat, 14 Nov 2026 10:27:51 +0100</pubDate>
-      <sparkle:version>202611140924</sparkle:version>
-      <sparkle:shortVersionString>2.23</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.24</title>
+      <pubDate>Sat, 14 Nov 2026 15:05:11 +0100</pubDate>
+      <sparkle:version>202611141454</sparkle:version>
+      <sparkle:shortVersionString>2.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Legge più copioni PDF: Batwheels, Bugs Bunny Builders, Champions, Chucky e i copioni HBO a continuità (Curb, Enlightened, Gentleman Jack).</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611140924/KCleanScript-m5-202611140924.dmg" length="63530287" type="application/octet-stream" sparkle:edSignature="pmVX7NspjaTeeEOYPC4AY4Or8vnJMarH7PF8/IqYBgto5MivXNL7ihVSJehoypQN1G/35TSXwxcc8+oaeNDSAg=="/>
+      <description><![CDATA[<p>Nuovo: «Excel per K ADR Export» nel menu Esporta (colonne di K ADR Export, pronto da importare). Si leggono più copioni PDF: liste CCSL, Succession, Home Sweet Rome, Edge of the Earth e altri circa 30.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611141454/KCleanScript-m5-202611141454.dmg" length="63438211" type="application/octet-stream" sparkle:edSignature="7b+nd05vpNgdku/T6MFpi16rM9l92AeCZOq+UkHgGygYYxCod0nELiimFAX+yEx5Iqj+NQmPZhsBAOLGOUbZAQ=="/>
     </item>
   </channel>
 </rss>
