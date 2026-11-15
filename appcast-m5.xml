@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.26</title>
-      <pubDate>Sun, 15 Nov 2026 12:18:23 +0100</pubDate>
-      <sparkle:version>202611151214</sparkle:version>
-      <sparkle:shortVersionString>2.26</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.27</title>
+      <pubDate>Sun, 15 Nov 2026 12:26:39 +0100</pubDate>
+      <sparkle:version>202611151222</sparkle:version>
+      <sparkle:shortVersionString>2.27</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Legge anche le sceneggiature Final Draft con le battute numerate (Tom &amp; Jerry in Snowman's Land, Winx 703).</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611151214/KCleanScript-m5-202611151214.dmg" length="63492185" type="application/octet-stream" sparkle:edSignature="//9/zwbG8vOaRSkSptGAXXZdP/sguUqReKyNRTabXd7Xm0lgdEouBIz1DzU3XLQ8XPb7TdvPZs2W5jTBygnhCg=="/>
+      <description><![CDATA[<p>Collegamento con K ADR Export: K ADR Export 16.44 manda i copioni a Clean Script, che li pulisce da sola e le cue entrano in K ADR Export (anche più copioni insieme).</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611151222/KCleanScript-m5-202611151222.dmg" length="63540888" type="application/octet-stream" sparkle:edSignature="aCfSJFJ69KBKEnIQu4NvnYrBjAXO9Iu6K1iC6BLY97gMFGA5UkqGhDTaTBQmB43i098yrsxx7o510bq5HfB+Dw=="/>
     </item>
   </channel>
 </rss>
