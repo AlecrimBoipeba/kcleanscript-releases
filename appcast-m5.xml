@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.28</title>
-      <pubDate>Sun, 15 Nov 2026 15:08:50 +0100</pubDate>
-      <sparkle:version>202611151504</sparkle:version>
-      <sparkle:shortVersionString>2.28</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.29</title>
+      <pubDate>Sun, 15 Nov 2026 23:04:51 +0100</pubDate>
+      <sparkle:version>202611152258</sparkle:version>
+      <sparkle:shortVersionString>2.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Excel per K ADR Export: le battute unite tengono il timecode di uscita di ogni parte (spotting list con TC IN e TC OUT).</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611151504/KCleanScript-m5-202611151504.dmg" length="63545324" type="application/octet-stream" sparkle:edSignature="sJL4m9hue/Pf+SnaFt/CjQzN7iAW8bX7hK/Zxd092BtS+IqV5ggc7r4OobghEV6oRcAAoM4phsX1lNVyqNKhDQ=="/>
+      <description><![CDATA[<p>CCSL in PDF letti con TC IN e TC OUT: tabelle a sei colonne (TC IN, TC OUT, descrizione, personaggio, battuta) e liste coi sottotitoli (START, END); etichette A TO B THEN B TO A con i nomi giusti; via le note del traduttore.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611152258/KCleanScript-m5-202611152258.dmg" length="63546015" type="application/octet-stream" sparkle:edSignature="QwA6i98+ik5JLZFlbvMAzGFshqYoMZDVezJRljokICmQ8KoGGHUSbRpXuSMAegUo1qO8WNDXDGcy6Vw2xoNSBQ=="/>
     </item>
   </channel>
 </rss>
