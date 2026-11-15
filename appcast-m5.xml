@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.25</title>
-      <pubDate>Sat, 14 Nov 2026 21:48:36 +0100</pubDate>
-      <sparkle:version>202611141913</sparkle:version>
-      <sparkle:shortVersionString>2.25</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.26</title>
+      <pubDate>Sun, 15 Nov 2026 12:18:23 +0100</pubDate>
+      <sparkle:version>202611151214</sparkle:version>
+      <sparkle:shortVersionString>2.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Importando un Excel con TC in e TC out, il copione pulito li mantiene se in Impostazioni non c'è il flag per rimuoverli. Più PDF letti.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611141913/KCleanScript-m5-202611141913.dmg" length="63490429" type="application/octet-stream" sparkle:edSignature="fjkWUY57qzW/UF5EYkpeDLttmtj794m3O0C/4Cs5RgemoyhUdki4xs7vqRtqkB7zxCuvSxAOv13JblEPRLriAg=="/>
+      <description><![CDATA[<p>Legge anche le sceneggiature Final Draft con le battute numerate (Tom &amp; Jerry in Snowman's Land, Winx 703).</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611151214/KCleanScript-m5-202611151214.dmg" length="63492185" type="application/octet-stream" sparkle:edSignature="//9/zwbG8vOaRSkSptGAXXZdP/sguUqReKyNRTabXd7Xm0lgdEouBIz1DzU3XLQ8XPb7TdvPZs2W5jTBygnhCg=="/>
     </item>
   </channel>
 </rss>
