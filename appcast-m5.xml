@@ -3,13 +3,13 @@
   <channel>
     <title>K Clean SCRIPT</title>
     <item>
-      <title>K Clean SCRIPT 2.29</title>
-      <pubDate>Sun, 15 Nov 2026 23:04:51 +0100</pubDate>
-      <sparkle:version>202611152258</sparkle:version>
-      <sparkle:shortVersionString>2.29</sparkle:shortVersionString>
+      <title>K Clean SCRIPT 2.30</title>
+      <pubDate>Mon, 16 Nov 2026 01:06:50 +0100</pubDate>
+      <sparkle:version>202611160100</sparkle:version>
+      <sparkle:shortVersionString>2.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>CCSL in PDF letti con TC IN e TC OUT: tabelle a sei colonne (TC IN, TC OUT, descrizione, personaggio, battuta) e liste coi sottotitoli (START, END); etichette A TO B THEN B TO A con i nomi giusti; via le note del traduttore.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611152258/KCleanScript-m5-202611152258.dmg" length="63546015" type="application/octet-stream" sparkle:edSignature="QwA6i98+ik5JLZFlbvMAzGFshqYoMZDVezJRljokICmQ8KoGGHUSbRpXuSMAegUo1qO8WNDXDGcy6Vw2xoNSBQ=="/>
+      <description><![CDATA[<p>Excel per K ADR Export: l'episodio non si prende più da una data nel nome del copione (prima «…_Reel2_2021-09-21» dava 21); «Reel 2» nel nome dà il rullo 2.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/kcleanscript-releases/releases/download/b202611160100/KCleanScript-m5-202611160100.dmg" length="63542108" type="application/octet-stream" sparkle:edSignature="FfkBz0toWYy5pKNc7+jFfhVkme55f6D+riU39A3K9br6Je7tdDhD11+R6rNlwe/gocq9KU4TmR17isAunypuBg=="/>
     </item>
   </channel>
 </rss>
